@@ -1,22 +1,21 @@
-Syncing notes with 'Corvus' on Wed, 28 Apr 2021 08:15:25 UTC
-Resetting to sha1: 6d6d088 (Update sync logs).
+Syncing notes with 'Corvus' on Wed, 28 Apr 2021 08:18:55 UTC
+Resetting to sha1: b21d138 (Update sync logs).
 
 Nothing to pull.
 Nothing to process.
 
 Committing unsynced notes (1):
- • first.md (old = untitled_note.md, id=e2f0207a-f0c3-4d1d-8077-866bf4027eac)
+ • first.md (id=e2f0207a-f0c3-4d1d-8077-866bf4027eac)
    creating/updating
+   deleting first.md
 
-Processing commits from 6d6d088 to 2fe6f11
- • 6d6d088 - Update sync logs
- • 679f610 - Rename 'untitled_note.md' → 'first.md'
- • 2fe6f11 - Update 'first.md'
+Processing commits from b21d138 to cb03bce
+ • b21d138 - Update sync logs
+ • cb03bce - Delete 'first.md'
 
-Syncing changes (2)
- • Rename(fromPath=.press/registers/untitled_note.meta, toPath=.press/registers/first.meta)
- • Add(path=first.md)
-   skipping first.md (already saved)
+Syncing deletions
+ • first.md
+   permanently deleting NoteId(e2f0207a-f0c3-4d1d-8077-866bf4027eac)
 
 Pushing changes
-Wrapping up sync (before push) on Wed, 28 Apr 2021 08:15:27 UTC
+Wrapping up sync (before push) on Wed, 28 Apr 2021 08:18:57 UTC
